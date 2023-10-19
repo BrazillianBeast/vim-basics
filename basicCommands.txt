@@ -1,0 +1,5 @@
+Vim has 4 modes:
+    Normal mode
+    Insert Mode
+    Visual Mode
+    Command Mode
